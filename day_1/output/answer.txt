@@ -1,1 +1,2 @@
 The sum of the difference between the two lists is: 1197984
+The score is: 23387399
